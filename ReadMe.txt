@@ -9,3 +9,10 @@ https://github.com/OpenRepeater/orp-sounds/archive/2.0.0.zip
 
 For Swedish sound files: 
 https://github.com/sm0svx/svxlink-sounds-sv_SE-elin/releases
+
+For Italian sound files:
+https://github.com/dl1hrc/svxlink-sounds-it_IT-chiara
+
+For Portuguese sound files:
+https://github.com/pu8asr/svxlink-automake/blob/master/sounds-svxlink-16k-pt_BR-HELENA.tar.bz2
+
