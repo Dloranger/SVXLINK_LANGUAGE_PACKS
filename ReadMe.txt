@@ -19,4 +19,6 @@ https://github.com/pu8asr/svxlink-automake/blob/master/sounds-svxlink-16k-pt_BR-
 For Russian sound files:
 https://github.com/circool/svxlink-sounds-ru_RU-heather
 
+For German sound files:
+https://dd1go.de/file.php?dir=SVX-LINK/&file=stimmen-mary.tar.bz2
 
