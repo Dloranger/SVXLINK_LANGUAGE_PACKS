@@ -16,3 +16,7 @@ https://github.com/dl1hrc/svxlink-sounds-it_IT-chiara
 For Portuguese sound files:
 https://github.com/pu8asr/svxlink-automake/blob/master/sounds-svxlink-16k-pt_BR-HELENA.tar.bz2
 
+For Russian sound files:
+https://github.com/circool/svxlink-sounds-ru_RU-heather
+
+
